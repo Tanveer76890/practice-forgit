@@ -7,3 +7,5 @@ let c = 100;
 let d = 200;
 const sum = c +d;
 console.log("sum of two number are : " + sum);
+
+// this is some text add from branch1 
